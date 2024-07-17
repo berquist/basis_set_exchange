@@ -58,7 +58,7 @@ bsecurate = "basis_set_exchange.cli:run_bsecurate_cli"
 "Bug Tracker" = "https://github.com/MolSSI-BSE/basis_set_exchange/issues"
 
 
-[tool.black]
+[tool.ruff]
 line-length = 120
 
 
